@@ -26,6 +26,7 @@
   <string name="menu_author_info">Hazırlayan</string>
   <string name="menu_delete">Sil</string>
   <string name="menu_reset">Temayı sıfırla</string>
+  <string name="shop_themes">Tema alın</string>
   <string name="apply_theme_overlay_title">Uygula</string>
   <string name="delete_theme_overlay_title">Sil</string>
   <string name="reset_theme_overlay_title">Sıfırla</string>

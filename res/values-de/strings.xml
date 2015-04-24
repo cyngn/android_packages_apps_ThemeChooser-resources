@@ -33,6 +33,7 @@
   <string name="customized_tag_text">Angepasst</string>
   <string name="updated_tag_text">Aktualisiert</string>
   <string name="add_component_text">Hinzufügen</string>
+  <string name="wallpaper_none">Keiner</string>
   <string name="reset_theme">Zurücksetzen</string>
   <string name="customize_theme">Anpassen</string>
   <string name="wallpaper_external_title">Bild auswählen</string>
