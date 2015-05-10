@@ -4,7 +4,7 @@
      Copyright (C) 2014-2015 Cyanogen, Inc.
 -->
 <resources>
-  <string name="app_name">Thèmes</string>
+  <string name="app_name">Sélecteur de thèmes</string>
   <string name="font_preview_letters">AaBbCcDd</string>
   <string name="theme_installed_notification_title">%s installé</string>
   <string name="theme_installed_notification_text">Thème installé avec succès.</string>
