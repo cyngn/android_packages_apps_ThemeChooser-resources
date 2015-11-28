@@ -37,5 +37,7 @@
   <string name="reset_theme">Sıfırla</string>
   <string name="wallpaper_external_title">Təsvir seç</string>
   <string name="wallpaper_none_title">Yoxdur</string>
+  <string name="processing_theme">Emal edilir\u2026</string>
+  <string name="legacy_theme_warning">QEYD: %s CM\'in köhnə versiyaları üçün tərtib edilib. Bu tema ilə uyğunluq problemləriylə qarşılaşa bilərsiniz.</string>
   <string name="file_type_not_supported">Fayl növü dəstəklənmir</string>
 </resources>
