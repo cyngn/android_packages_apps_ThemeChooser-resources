@@ -4,7 +4,7 @@
      Copyright (C) 2014-2015 Cyanogen, Inc.
 -->
 <resources>
-  <string name="app_name">Temas</string>
+  <string name="app_name">Selector de temas</string>
   <string name="font_preview_letters">AaBbCcDd</string>
   <string name="theme_installed_notification_title">%s instalado</string>
   <string name="theme_installed_notification_text">Tema instalado correctamente.</string>
@@ -13,16 +13,13 @@
   <string name="themes_installed_notification_text_other">%1$s y %2$d otros instalados.</string>
   <string name="font_component_item_text">Aa</string>
   <string name="icon_label">Iconos</string>
-  <string name="font_label">Fuentes</string>
+  <string name="font_label">Tipos de letra</string>
   <string name="statusbar_label">Estado</string>
   <string name="navbar_label">Navegación</string>
   <string name="wallpaper_label">Fondo de pantalla</string>
-  <string name="lockscreen_label">Fondo de bloqueo</string>
+  <string name="lockscreen_label">Fondo de pantalla de bloqueo</string>
   <string name="style_label">Controles</string>
-  <string name="boot_animation_label">Animación de inicio</string>
   <string name="alarm_label">Alarma</string>
-  <string name="notification_label">Notificación</string>
-  <string name="ringtone_label">Tono de llamada</string>
   <string name="menu_author_info">Autor</string>
   <string name="menu_delete">Eliminar</string>
   <string name="menu_reset">Restablecer tema</string>
@@ -41,10 +38,9 @@
   <string name="wallpaper_external_title">Elegir imagen</string>
   <string name="wallpaper_none_title">Ninguno</string>
   <string name="processing_theme">Procesando\u2026</string>
-  <string name="legacy_theme_warning">%s fue diseñado para una versión anterior de CM. Puedes experimentar problemas de compatibilidad con este tema.</string>
-  <string name="per_app_theming_title">App Temas</string>
-  <string name="per_app_theme_removal_warning">Nota: Aplicar un nuevo tema eliminará cualquier personalización previa de la aplicación de temas.</string>
+  <string name="legacy_theme_warning">AVISO: %s fue diseñado para una versión anterior de CM. Puedes experimentar problemas de compatibilidad con este tema.</string>
+  <string name="per_app_theme_removal_warning">AVISO: Aplicar un nuevo tema eliminará cualquier personalización previa de la aplicación de temas.</string>
   <string name="per_app_theme_applying">El tema está siendo aplicado</string>
-  <string name="per_app_theme_app_not_overlaid_warning">El tema no soporta esta aplicación. Puede que algunos elementos queden sin cambios.</string>
-  <string name="file_type_not_supported">Tipo de archivo no soportado</string>
+  <string name="per_app_theme_app_not_overlaid_warning">El tema no es compatible con esta aplicación. Puede que algunos elementos no cambien.</string>
+  <string name="file_type_not_supported">Tipo de archivo no compatible</string>
 </resources>
