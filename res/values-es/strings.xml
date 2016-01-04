@@ -19,7 +19,10 @@
   <string name="wallpaper_label">Fondo de pantalla</string>
   <string name="lockscreen_label">Fondo de pantalla de bloqueo</string>
   <string name="style_label">Controles</string>
+  <string name="boot_animation_label">Animación de inicio</string>
   <string name="alarm_label">Alarma</string>
+  <string name="notification_label">Notificación</string>
+  <string name="ringtone_label">Timbre de llamada</string>
   <string name="menu_author_info">Autor</string>
   <string name="menu_delete">Eliminar</string>
   <string name="menu_reset">Restablecer tema</string>
@@ -39,6 +42,7 @@
   <string name="wallpaper_none_title">Ninguno</string>
   <string name="processing_theme">Procesando\u2026</string>
   <string name="legacy_theme_warning">AVISO: %s fue diseñado para una versión anterior de CM. Puedes experimentar problemas de compatibilidad con este tema.</string>
+  <string name="per_app_theming_title">Temas de la aplicación</string>
   <string name="per_app_theme_removal_warning">AVISO: Aplicar un nuevo tema eliminará cualquier personalización previa de la aplicación de temas.</string>
   <string name="per_app_theme_applying">El tema está siendo aplicado</string>
   <string name="per_app_theme_app_not_overlaid_warning">El tema no es compatible con esta aplicación. Puede que algunos elementos no cambien.</string>
