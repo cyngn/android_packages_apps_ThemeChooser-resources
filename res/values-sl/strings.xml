@@ -42,9 +42,9 @@
   <string name="wallpaper_none_title">Brez</string>
   <string name="processing_theme">Obdelovanje \u2026</string>
   <string name="legacy_theme_warning">OPOMBA: %s je bila oblikovana za starejšo različico CM-a. Pri tej temi se lahko pojavijo težave z združljivostjo.</string>
-  <string name="per_app_theming_title">Izbirnik tem za programe</string>
-  <string name="per_app_theme_removal_warning">OPOMBA: Uveljavitev nove teme bo odstranila prilagoditve tem za programe.</string>
+  <string name="per_app_theming_title">Izbirnik tem za aplikacije</string>
+  <string name="per_app_theme_removal_warning">OPOMBA: Uveljavitev nove teme bo odstranila prilagoditve tem za aplikacije.</string>
   <string name="per_app_theme_applying">Vaša tema se uveljavlja</string>
-  <string name="per_app_theme_app_not_overlaid_warning">Tema ne podpira tega programa, nekateri elementi se morda ne bodo spremenili.</string>
+  <string name="per_app_theme_app_not_overlaid_warning">Tema ne podpira te aplikacije, nekateri elementi se morda ne bodo spremenili.</string>
   <string name="file_type_not_supported">Vrsta datoteke ni podprta</string>
 </resources>
