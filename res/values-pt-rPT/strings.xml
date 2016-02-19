@@ -18,7 +18,7 @@
   <string name="navbar_label">Navegação</string>
   <string name="wallpaper_label">Imagem de fundo</string>
   <string name="lockscreen_label">Imagem de fundo do ecrã de bloqueio</string>
-  <string name="style_label">Controles</string>
+  <string name="style_label">Controlos</string>
   <string name="boot_animation_label">Animação de inicialização</string>
   <string name="alarm_label">Alarme</string>
   <string name="notification_label">Notificação</string>
