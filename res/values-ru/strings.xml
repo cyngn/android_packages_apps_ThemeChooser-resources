@@ -25,7 +25,7 @@
   <string name="ringtone_label">Рингтон</string>
   <string name="menu_author_info">Автор</string>
   <string name="menu_delete">Удалить</string>
-  <string name="menu_reset">Сброс настроек</string>
+  <string name="menu_reset">Сбросить тему</string>
   <string name="shop_themes">Магазин тем</string>
   <string name="apply_theme_overlay_title">Применить</string>
   <string name="delete_theme_overlay_title">Удалить</string>
@@ -36,7 +36,7 @@
   <string name="add_component_text">Добавить</string>
   <string name="wallpaper_none">Нет</string>
   <string name="audible_title_none">Нет</string>
-  <string name="reset_theme">Сброс</string>
+  <string name="reset_theme">Сбросить</string>
   <string name="customize_theme">Настройка</string>
   <string name="wallpaper_external_title">Выбрать изображение</string>
   <string name="wallpaper_none_title">Нет</string>

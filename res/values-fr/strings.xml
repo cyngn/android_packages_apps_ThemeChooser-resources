@@ -41,10 +41,10 @@
   <string name="wallpaper_external_title">Choisir une image</string>
   <string name="wallpaper_none_title">Aucun</string>
   <string name="processing_theme">Traitement\u2026</string>
-  <string name="legacy_theme_warning">NOTE : %s a été conçu pour une version plus ancienne de CM. Vous pouvez rencontrer des problèmes de compatibilité avec ce thème.</string>
+  <string name="legacy_theme_warning">REMARQUE : %s a été conçu pour une version plus ancienne de CM. Vous pourrez rencontrer des problèmes de compatibilité avec ce thème.</string>
   <string name="per_app_theming_title">Thème par application</string>
   <string name="per_app_theme_removal_warning">Remarque : Appliquer un nouveau thème supprimera toutes les personnalisations du thème de l\'application.</string>
   <string name="per_app_theme_applying">Votre thème est appliqué</string>
-  <string name="per_app_theme_app_not_overlaid_warning">Thème ne supporte pas cette application, certains éléments ne peuvent être modifiés.</string>
+  <string name="per_app_theme_app_not_overlaid_warning">Thème ne supporte pas cette application, certains éléments peuvent ne pas être modifiés.</string>
   <string name="file_type_not_supported">Type de fichier non pris en charge</string>
 </resources>

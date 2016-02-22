@@ -42,6 +42,9 @@
   <string name="wallpaper_none_title">Nijedan</string>
   <string name="processing_theme">Obrada\u2026</string>
   <string name="legacy_theme_warning">NAPOMENA: %s je dizajniran za starije verzije CM-a. Mogli bi iskusiti probleme kompatibilnosti s ovom temom.</string>
+  <string name="per_app_theming_title">Temer aplikacija</string>
+  <string name="per_app_theme_removal_warning">NAPOMENA: Postavljanje nove teme će ukloniti sve prilagodbe teme.</string>
   <string name="per_app_theme_applying">Vaša tema se primjenjuje</string>
+  <string name="per_app_theme_app_not_overlaid_warning">Tema ne podržava ovu aplikaciju, neki elementi se neće promijeniti.</string>
   <string name="file_type_not_supported">Vrsta datoteke nije podržana</string>
 </resources>
