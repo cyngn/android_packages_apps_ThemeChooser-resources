@@ -31,6 +31,7 @@
     <string name="navbar_label">Navigation</string>
     <string name="wallpaper_label">Wallpaper</string>
     <string name="lockscreen_label">Lockscreen wallpaper</string>
+    <string name="live_lock_screen_label">Live lock screen</string>
     <string name="style_label">Controls</string>
     <string name="boot_animation_label">Boot animation</string>
     <string name="alarm_label">Alarm</string>
@@ -82,7 +83,10 @@
     <string name="per_app_theme_applying">Your theme is being applied</string>
     <string name="per_app_theme_app_not_overlaid_warning">Theme does not support this app, some elements may not change.</string>
 
-    <!-- Unsupported file format -->
-    <string name="file_type_not_supported">File type not supported</string>
+    <string name="read_external_permission_denied_message">Theme chooser cannot access media and is unable to pick an image at this time.</string>
 
+    <string name="animated_lock_screen_badge_text">Anim</string>
+    <string name="enable_live_lock_screen_dialog_title">Enable Live lock screen</string>
+    <string name="enable_live_lock_screen_dialog_message">Animated lock screens require the Live lock screen feature. You can change this later by opening Settings and visiting the Live lock screen page under Lock screen options.</string>
+    <string name="enable_live_lock_screen_dialog_positive_btn_text">Enable</string>
 </resources>
