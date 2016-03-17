@@ -19,7 +19,8 @@
   <string name="statusbar_label">Stanje</string>
   <string name="navbar_label">Krmarjenje</string>
   <string name="wallpaper_label">Slika ozadja</string>
-  <string name="lockscreen_label">Slika ozadja zaslona za zaklepanje</string>
+  <string name="lockscreen_label">Slika ozadja zaklenjenega zaslona</string>
+  <string name="live_lock_screen_label">Živi zaklenjen zaslon</string>
   <string name="style_label">Nadzorne tipke</string>
   <string name="boot_animation_label">Zagonska animacija</string>
   <string name="alarm_label">Budilka</string>
@@ -56,6 +57,9 @@
   <string name="per_app_theme_removal_warning">OPOMBA: Uveljavitev nove teme bo odstranila prilagoditve tem za aplikacije.</string>
   <string name="per_app_theme_applying">Vaša tema se uveljavlja</string>
   <string name="per_app_theme_app_not_overlaid_warning">Tema ne podpira te aplikacije, nekateri elementi se morda ne bodo spremenili.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Vrsta datoteke ni podprta</string>
+  <string name="read_external_permission_denied_message">Izbirnik tem nima dostopa do predstavnosti in trenutno ne mora izbrati slike.</string>
+  <string name="animated_lock_screen_badge_text">Animacija</string>
+  <string name="enable_live_lock_screen_dialog_title">Omogočite živi zaklenjen zaslon</string>
+  <string name="enable_live_lock_screen_dialog_message">Animirani zaklenjeni zasloni zahtevajo omogočene žive zaklenjene zaslone. To lahko kasneje spremenite z odprtjem Nastavitev in navigiranjem do Živih zaklenjenih zaslonov na strani Zaklepanje zaslona.</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Omogoči</string>
 </resources>

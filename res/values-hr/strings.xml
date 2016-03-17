@@ -20,6 +20,7 @@
   <string name="navbar_label">Navigacija</string>
   <string name="wallpaper_label">Pozadina</string>
   <string name="lockscreen_label">Pozadina zaslona zaključavanja</string>
+  <string name="live_lock_screen_label">Animirani zaključani zaslon</string>
   <string name="style_label">Kontrole</string>
   <string name="boot_animation_label">Animacija podizanja sustava</string>
   <string name="alarm_label">Alarm</string>
@@ -56,6 +57,9 @@
   <string name="per_app_theme_removal_warning">NAPOMENA: Postavljanje nove teme će ukloniti sve prilagodbe teme.</string>
   <string name="per_app_theme_applying">Vaša tema se primjenjuje</string>
   <string name="per_app_theme_app_not_overlaid_warning">Tema ne podržava ovu aplikaciju, neki elementi se neće promijeniti.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Vrsta datoteke nije podržana</string>
+  <string name="read_external_permission_denied_message">Theme Chooser ne može pristupiti medijima i ne može odabrati sliku u ovom trenutku.</string>
+  <string name="animated_lock_screen_badge_text">Animacija</string>
+  <string name="enable_live_lock_screen_dialog_title">Omogući animirani zaključani zaslon</string>
+  <string name="enable_live_lock_screen_dialog_message">Animirani zaključani zasloni trebaju značajku Animirani zaključani zaslon. Možete ovo promijeniti kasnije u postavkama i posjetiti stranicu Animirani zaključani zaslon pod opcijom Zaključavanje zaslona.</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Omogući</string>
 </resources>

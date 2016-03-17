@@ -56,6 +56,4 @@
   <string name="per_app_theme_removal_warning">UWAGA: Zastosowanie nowego motywu usunie wszelkie modyfikacje wyglądu aplikacji.</string>
   <string name="per_app_theme_applying">Twój motyw zostanie zastosowany</string>
   <string name="per_app_theme_app_not_overlaid_warning">Motyw nie obsługuje tej aplikacji, niektóre elementy mogą się nie zmienić.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Nieobsługiwany typ pliku</string>
 </resources>

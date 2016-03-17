@@ -56,6 +56,4 @@
   <string name="per_app_theme_removal_warning">Poznámka: Použitie novej témy odstráni všetky prispôbenia témy aplikácie.</string>
   <string name="per_app_theme_applying">Vaša téma sa aplikuje</string>
   <string name="per_app_theme_app_not_overlaid_warning">Téma nepodporuje túto aplikáciu, niektoré prvky sa nemusia zmeniť.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Typ súboru nie je podporovaný</string>
 </resources>

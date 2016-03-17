@@ -56,6 +56,4 @@
   <string name="per_app_theme_removal_warning">MEGJEGYZÉS: Új téma alkalmazásával minden alkalmazás témamódosítása elveszik.</string>
   <string name="per_app_theme_applying">A témája alkalmazásra került</string>
   <string name="per_app_theme_app_not_overlaid_warning">A téma nem támogatja az alkalmazást, egyes elemek nem fognak változni.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Nem támogatott fájl típus</string>
 </resources>

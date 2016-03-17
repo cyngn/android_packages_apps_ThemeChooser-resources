@@ -55,6 +55,4 @@
   <string name="per_app_theme_removal_warning">Примітка: Застосування нової теми призведе до скидання всіх налаштувань тем в додатках.</string>
   <string name="per_app_theme_applying">Ваша тема застосовується</string>
   <string name="per_app_theme_app_not_overlaid_warning">Тема не підтримує цей додаток, деякі елементи залишаться без змін.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Даний тип файлу не підтримується</string>
 </resources>

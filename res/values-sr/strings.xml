@@ -56,6 +56,4 @@
   <string name="per_app_theme_removal_warning">НАПОМЕНА: Постављање нове теме ће уклонити сва прилагођавања теме.</string>
   <string name="per_app_theme_applying">Твоја тема је примењена</string>
   <string name="per_app_theme_app_not_overlaid_warning">Тема не подржава ову апликацију, неки елементи се неће променити.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Тип фајла није подржан</string>
 </resources>

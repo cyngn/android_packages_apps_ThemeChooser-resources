@@ -56,6 +56,4 @@
   <string name="per_app_theme_removal_warning">MÄRKUS: Uue kujunduse rakendamine eemaldab kõik rakenduste teemade kohandused.</string>
   <string name="per_app_theme_applying">Sinu kujundust rakendatakse</string>
   <string name="per_app_theme_app_not_overlaid_warning">Teema ei toeta seda rakendust, mõned elemendid ei pruugi muutuda.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Failitüüp ei ole toetatud</string>
 </resources>

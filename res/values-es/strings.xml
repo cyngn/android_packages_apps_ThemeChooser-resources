@@ -20,6 +20,7 @@
   <string name="navbar_label">Navegación</string>
   <string name="wallpaper_label">Fondo de pantalla</string>
   <string name="lockscreen_label">Fondo de pantalla de bloqueo</string>
+  <string name="live_lock_screen_label">Pantalla de bloqueo animada</string>
   <string name="style_label">Controles</string>
   <string name="boot_animation_label">Animación de inicio</string>
   <string name="alarm_label">Alarma</string>
@@ -56,6 +57,9 @@
   <string name="per_app_theme_removal_warning">AVISO: Aplicar un nuevo tema eliminará cualquier personalización previa de la aplicación de temas.</string>
   <string name="per_app_theme_applying">El tema está siendo aplicado</string>
   <string name="per_app_theme_app_not_overlaid_warning">El tema no es compatible con esta aplicación. Puede que algunos elementos no cambien.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Tipo de archivo no compatible</string>
+  <string name="read_external_permission_denied_message">El selector de temas no puede acceder al almacenamiento y no puede escoger una imagen en este momento.</string>
+  <string name="animated_lock_screen_badge_text">Animada</string>
+  <string name="enable_live_lock_screen_dialog_title">Activar la pantalla de bloqueo animada</string>
+  <string name="enable_live_lock_screen_dialog_message">Las pantallas de bloqueo animadas necesitan la función de pantalla de bloqueo directo. Puedes cambiar esto más tarde en Ajustes y visitando la página de opciones de pantalla de bloqueo.</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Activada</string>
 </resources>

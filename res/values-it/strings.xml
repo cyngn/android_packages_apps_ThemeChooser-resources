@@ -20,6 +20,7 @@
   <string name="navbar_label">Navigazione</string>
   <string name="wallpaper_label">Sfondo</string>
   <string name="lockscreen_label">Sfondo schermata sblocco</string>
+  <string name="live_lock_screen_label">Blocco schermo animato</string>
   <string name="style_label">Controlli</string>
   <string name="boot_animation_label">Animazione d\'avvio</string>
   <string name="alarm_label">Allarme</string>
@@ -56,6 +57,9 @@
   <string name="per_app_theme_removal_warning">NOTA: Applicando un nuovo tema tutte le personalizzazioni App Theme saranno rimosse.</string>
   <string name="per_app_theme_applying">Il tema sta per essere applicato</string>
   <string name="per_app_theme_app_not_overlaid_warning">Il tema non supporta quest\'app, alcuni elementi potrebbero non cambiare.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Tipo di file non supportato</string>
+  <string name="read_external_permission_denied_message">Theme Chooser non può accedere alla memoria e quindi non è possibile scegliere un\'immagine.</string>
+  <string name="animated_lock_screen_badge_text">Anim</string>
+  <string name="enable_live_lock_screen_dialog_title">Attiva schermata sblocco animata</string>
+  <string name="enable_live_lock_screen_dialog_message">Le schermate di blocco animate richiedono l\'attivazione della funzione Blocco Schermo Animato. Potrai modificare nuovamente quest\'opzione dalle omonime impostazioni nella sezione Schermata di blocco.</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Attiva</string>
 </resources>

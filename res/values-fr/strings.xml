@@ -20,6 +20,7 @@
   <string name="navbar_label">Navigation</string>
   <string name="wallpaper_label">Fond d\'écran</string>
   <string name="lockscreen_label">Fond d\'écran de verrouillage</string>
+  <string name="live_lock_screen_label">Écran de verrouillage animé</string>
   <string name="style_label">Contrôles</string>
   <string name="boot_animation_label">Animation de démarrage</string>
   <string name="alarm_label">Alarme</string>
@@ -56,6 +57,9 @@
   <string name="per_app_theme_removal_warning">Remarque : Appliquer un nouveau thème supprimera toutes les personnalisations du thème de l\'application.</string>
   <string name="per_app_theme_applying">Votre thème est appliqué</string>
   <string name="per_app_theme_app_not_overlaid_warning">Thème ne supporte pas cette application, certains éléments peuvent ne pas être modifiés.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Type de fichier non pris en charge</string>
+  <string name="read_external_permission_denied_message">Le sélecteur de thème ne peut pas accéder au média et n\'est pas pour le moment en mesure de choisir une image.</string>
+  <string name="animated_lock_screen_badge_text">Animé</string>
+  <string name="enable_live_lock_screen_dialog_title">Activer l\'écran de verrouillage animé</string>
+  <string name="enable_live_lock_screen_dialog_message">Les écrans de verrouillage animés requièrent la fonctionnalité Écran de verrouillage animé. Vous pouvez changer cela plus tard en ouvrant les paramètres et en vous rendant sur la page Écran de verrouillage animé sous les options Écran de verrouillage.</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Activer</string>
 </resources>

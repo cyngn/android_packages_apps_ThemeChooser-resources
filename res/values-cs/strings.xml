@@ -20,6 +20,7 @@
   <string name="navbar_label">Navigace</string>
   <string name="wallpaper_label">Tapeta</string>
   <string name="lockscreen_label">Tapety zámku obrazovky</string>
+  <string name="live_lock_screen_label">Živý zámek obrazovky</string>
   <string name="style_label">Ovládací prvky</string>
   <string name="boot_animation_label">Startovací animace</string>
   <string name="alarm_label">Budík</string>
@@ -56,6 +57,9 @@
   <string name="per_app_theme_removal_warning">Poznámka: Použitím nového motivu odebere veškeré vlastní nastavení motivu.</string>
   <string name="per_app_theme_applying">Motiv je aplikován</string>
   <string name="per_app_theme_app_not_overlaid_warning">Motiv tuto aplikaci nepodporuje, některé elementy nelze změnit.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Typ souboru není podporován</string>
+  <string name="read_external_permission_denied_message">Výběr motivu nemůže přistupovat k médiím a proto není možné vybrat obrázek.</string>
+  <string name="animated_lock_screen_badge_text">Animace</string>
+  <string name="enable_live_lock_screen_dialog_title">Povolit živý zámek obrazovky</string>
+  <string name="enable_live_lock_screen_dialog_message">Animované zámky obrazovky vyžadují funkci živého zámku obrazovky. Povolení této funkce je možné v Nastavení v možnostech pro Zámek obrazovky.</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Povolit</string>
 </resources>

@@ -49,6 +49,4 @@
   <!-- Legacy themes -->
   <string name="legacy_theme_warning">QEYD: %s CM\'in köhnə versiyaları üçün tərtib edilib. Bu tema ilə uyğunluq problemləriylə qarşılaşa bilərsiniz.</string>
   <!-- Per app theming -->
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Fayl növü dəstəklənmir</string>
 </resources>

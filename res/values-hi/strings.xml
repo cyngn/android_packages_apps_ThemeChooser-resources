@@ -56,6 +56,4 @@
   <string name="per_app_theme_removal_warning">टिप्पणी: नया थीम लागू करने से ऐप थीम अनुकूलन यदि हों, तो हटा दिए जाएँगे।</string>
   <string name="per_app_theme_applying">आपका थीम लागू किया जा रहा है</string>
   <string name="per_app_theme_app_not_overlaid_warning">यह थीम इस ऐप को समर्थित नहीं करता है, कुछ तत्व नहीं बदलेंगे।</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">फ़ाइल प्रकार असमर्थित है</string>
 </resources>

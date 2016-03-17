@@ -45,6 +45,4 @@
   <string name="per_app_theme_removal_warning">注意：套用新主題將移除所有應用程式主題的自訂設定。</string>
   <string name="per_app_theme_applying">正在套用您的主題</string>
   <string name="per_app_theme_app_not_overlaid_warning">該主題不支援此應用程式，某些元素可能無法變更。</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">不支援該檔案類型</string>
 </resources>

@@ -20,6 +20,7 @@
   <string name="navbar_label">Navigasie</string>
   <string name="wallpaper_label">Muurpapier</string>
   <string name="lockscreen_label">Slot skerm muurpapier</string>
+  <string name="live_lock_screen_label">Lewendige slotskerm</string>
   <string name="style_label">Kontroles</string>
   <string name="boot_animation_label">Begin animasie</string>
   <string name="alarm_label">Wekker</string>
@@ -56,6 +57,9 @@
   <string name="per_app_theme_removal_warning">KENNISGEWING: Toepassing van \'n nuwe tema sal enige pasgemaakte tema vir enige program verwyder.</string>
   <string name="per_app_theme_applying">Jou tema word toegepas</string>
   <string name="per_app_theme_app_not_overlaid_warning">Tema ondersteun nie die program nie, sommige elemente mag nie verander nie.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Lêer tipe word nie ondersteun nie</string>
+  <string name="read_external_permission_denied_message">Tema kies opsie is nie beskikbaar nie omdat geen media toegang beskikbaar is om \'n foto te kies nie.</string>
+  <string name="animated_lock_screen_badge_text">Anim</string>
+  <string name="enable_live_lock_screen_dialog_title">Aktiveer lewendige slotskerm</string>
+  <string name="enable_live_lock_screen_dialog_message">Geanimeerde slot skerms vereis dat Lewendige skerm slot funksie aktief is. Jy kan dit later aktiveer met die opening van instellings, slot skerm opsies en dan op die bladsy die lewendige slot skerm opsie aktiveer.</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Aktiveer</string>
 </resources>

@@ -20,6 +20,7 @@
   <string name="navbar_label">Navigation</string>
   <string name="wallpaper_label">Hintergrund</string>
   <string name="lockscreen_label">Sperrbildschirm-Hintergrund</string>
+  <string name="live_lock_screen_label">Animierter Sperrbildschirm</string>
   <string name="style_label">Steuerelemente</string>
   <string name="boot_animation_label">Boot-Animation</string>
   <string name="alarm_label">Wecker</string>
@@ -56,6 +57,9 @@
   <string name="per_app_theme_removal_warning">Hinweis: Das Anwenden eines neuen Designs entfernt alle App-Design-Anpassungen.</string>
   <string name="per_app_theme_applying">Ihr Design wird angewendet.</string>
   <string name="per_app_theme_app_not_overlaid_warning">Diese App wird vom Design nicht unterstützt; einige Elemente werden unter Umständen nicht verändert.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Dateityp nicht unterstützt</string>
+  <string name="read_external_permission_denied_message">Die Designauswahl kann nicht auf Medien zugreifen und daher zurzeit kein Bild auswählen.</string>
+  <string name="animated_lock_screen_badge_text">Animation</string>
+  <string name="enable_live_lock_screen_dialog_title">Animierte Bildschirmsperre aktivieren</string>
+  <string name="enable_live_lock_screen_dialog_message">Für animierte Bildschirmsperren wird die Funktion \"Animierte Bildschirmsperre\" benötigt. Sie können dies später ändern, indem Sie die Einstellungen öffnen und unter \"Animierte Bildschirmsperre – Optionen\" \"Animierte Bildschirmsperre\" aufrufen.</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Aktivieren</string>
 </resources>

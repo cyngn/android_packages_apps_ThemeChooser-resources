@@ -20,6 +20,7 @@
   <string name="navbar_label">Navegació</string>
   <string name="wallpaper_label">Fons de pantalla</string>
   <string name="lockscreen_label">Fons de la pantalla de bloqueig</string>
+  <string name="live_lock_screen_label">Pantalla de bloqueig animada</string>
   <string name="style_label">Controls</string>
   <string name="boot_animation_label">Animació d\'arrencada</string>
   <string name="alarm_label">Alarma</string>
@@ -56,6 +57,9 @@
   <string name="per_app_theme_removal_warning">NOTA: Aplicant un tema nou s\'eliminarà qualsevol personalització de tema en les aplicacions.</string>
   <string name="per_app_theme_applying">S\'està aplicant el teu tema</string>
   <string name="per_app_theme_app_not_overlaid_warning">El tema no és compatible amb aquesta aplicació, alguns elements pot ser que no canviïn.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">El tipus de fitxer no està suportat</string>
+  <string name="read_external_permission_denied_message">El selector de temes no pot accedir a l\'emmagatzematge i és incapaç de triar una imatge en aquest moment.</string>
+  <string name="animated_lock_screen_badge_text">Animada</string>
+  <string name="enable_live_lock_screen_dialog_title">Habilita la pantalla de bloqueig animada</string>
+  <string name="enable_live_lock_screen_dialog_message">Les pantalles de bloqueig animades requereixen la funció de pantalla de bloqueig animada. Pots canviar això més tard obrint la Configuració i visitant la pàgina Pantalla de bloqueig animada sota les opcions de Pantalla de bloqueig.</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Habilita</string>
 </resources>

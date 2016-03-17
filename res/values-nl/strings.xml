@@ -20,6 +20,7 @@
   <string name="navbar_label">Navigatie</string>
   <string name="wallpaper_label">Achtergrond</string>
   <string name="lockscreen_label">Achtergrond vergrendelingsscherm</string>
+  <string name="live_lock_screen_label">Geanimeerd vergrendelingsscherm</string>
   <string name="style_label">Besturingselementen</string>
   <string name="boot_animation_label">Opstartanimatie</string>
   <string name="alarm_label">Alarm</string>
@@ -56,6 +57,6 @@
   <string name="per_app_theme_removal_warning">Let op: Toepassen van een nieuw thema zal alle aanpassingen van het app-thema verwijderen.</string>
   <string name="per_app_theme_applying">Uw thema wordt toegepast</string>
   <string name="per_app_theme_app_not_overlaid_warning">Het thema ondersteunt deze app niet. Enkele elementen kunnen ongewijzigd blijven.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Bestandstype niet ondersteund</string>
+  <string name="enable_live_lock_screen_dialog_title">Geanimeerd vergrendelingsscherm inschakelen</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Inschakelen</string>
 </resources>

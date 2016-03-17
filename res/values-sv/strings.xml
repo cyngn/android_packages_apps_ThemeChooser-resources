@@ -20,6 +20,7 @@
   <string name="navbar_label">Navigering</string>
   <string name="wallpaper_label">Bakgrundsbild</string>
   <string name="lockscreen_label">Bakgrundbild till låsskärm</string>
+  <string name="live_lock_screen_label">Levande låsskärm</string>
   <string name="style_label">Kontroller</string>
   <string name="boot_animation_label">Uppstartsanimation</string>
   <string name="alarm_label">Alarm</string>
@@ -56,6 +57,8 @@
   <string name="per_app_theme_removal_warning">OBS: När du använder ett nytt tema tar det bort alla anpassningar till appteman.</string>
   <string name="per_app_theme_applying">Ditt tema appliceras</string>
   <string name="per_app_theme_app_not_overlaid_warning">Tema stödjer inte denna app, några element kanske inte ändras.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Filtypen stöds inte</string>
+  <string name="read_external_permission_denied_message">Temaväljaren har inte tillgång till media och kan inte välja en bild just nu.</string>
+  <string name="animated_lock_screen_badge_text">Anim</string>
+  <string name="enable_live_lock_screen_dialog_title">Aktivera levande låsskärm</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Aktivera</string>
 </resources>

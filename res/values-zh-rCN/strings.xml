@@ -20,6 +20,7 @@
   <string name="navbar_label">导航</string>
   <string name="wallpaper_label">壁纸</string>
   <string name="lockscreen_label">锁屏壁纸</string>
+  <string name="live_lock_screen_label">活动锁屏</string>
   <string name="style_label">控件</string>
   <string name="boot_animation_label">开机动画</string>
   <string name="alarm_label">闹钟</string>
@@ -56,6 +57,9 @@
   <string name="per_app_theme_removal_warning">注意：应用新的主题将会移除所有应用的自定义主题。</string>
   <string name="per_app_theme_applying">您的主题正在被应用</string>
   <string name="per_app_theme_app_not_overlaid_warning">主题不支持此应用，某些元素可能不会改变。</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">文件类型不被支持</string>
+  <string name="read_external_permission_denied_message">主题选择器无法访问媒体并且无法在此时选择图片。</string>
+  <string name="animated_lock_screen_badge_text">动画</string>
+  <string name="enable_live_lock_screen_dialog_title">启用活动锁屏</string>
+  <string name="enable_live_lock_screen_dialog_message">动画锁屏需要活动锁屏功能。您可以在稍后打开设置，锁屏选项下的活动锁屏页面并启用。</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">启用</string>
 </resources>

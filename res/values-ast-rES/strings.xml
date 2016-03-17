@@ -55,6 +55,4 @@
   <string name="per_app_theme_removal_warning">NOTA: L\'aplique d\'un tema nuevu desaniciará cualesquier personalizaciones de tema.</string>
   <string name="per_app_theme_applying">Ta aplicándose\'l to tema</string>
   <string name="per_app_theme_app_not_overlaid_warning">El to tema nun sofita esta app, dellos elementos podríen nun camudar.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Triba de ficheru non sofitada</string>
 </resources>

@@ -56,6 +56,4 @@
   <string name="per_app_theme_removal_warning">注意: 新しいテーマを適用するとすべてのアプリのテーマのカスタマイズが削除されます。</string>
   <string name="per_app_theme_applying">テーマを適用しています</string>
   <string name="per_app_theme_app_not_overlaid_warning">テーマがこのアプリをサポートしていないため、変更されない要素がある可能性があります。</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">ファイル形式がサポートされていません</string>
 </resources>

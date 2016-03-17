@@ -56,6 +56,4 @@
   <string name="per_app_theme_removal_warning">PASTABA: Taikant naują temą bus pašalinti programos temos tinkinimai.</string>
   <string name="per_app_theme_applying">Taikoma jūsų tema</string>
   <string name="per_app_theme_app_not_overlaid_warning">Tema nepalaiko šios programos kai kurie elementai gali nepasikeisti.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Failo tipas nepalaikomas</string>
 </resources>

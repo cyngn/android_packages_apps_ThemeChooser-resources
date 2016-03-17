@@ -56,6 +56,4 @@
   <string name="per_app_theme_removal_warning">NOTA: Ao aplicar un novo tema, retiraranse todas as personalizacións de tema de calquera aplicación.</string>
   <string name="per_app_theme_applying">Estase a aplicar o seu tema</string>
   <string name="per_app_theme_app_not_overlaid_warning">O tema non é compatíbel con esta aplicación, polo que algúns elementos pode que non cambien.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Este tipo de ficheiro non é compatíbel</string>
 </resources>

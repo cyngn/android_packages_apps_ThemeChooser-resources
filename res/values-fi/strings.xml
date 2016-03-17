@@ -20,6 +20,7 @@
   <string name="navbar_label">Navigointi</string>
   <string name="wallpaper_label">Taustakuva</string>
   <string name="lockscreen_label">Lukitusnäytön taustakuva</string>
+  <string name="live_lock_screen_label">Live-lukitusnäyttö</string>
   <string name="style_label">Ohjaus</string>
   <string name="boot_animation_label">Käynnistysanimaatio</string>
   <string name="alarm_label">Hälytys</string>
@@ -56,6 +57,9 @@
   <string name="per_app_theme_removal_warning">HUOMAUTUS: Uuden teeman käyttöönotto poistaa sovelluskohtaiset mukautukset.</string>
   <string name="per_app_theme_applying">Teemaa otetaan käyttöön</string>
   <string name="per_app_theme_app_not_overlaid_warning">Teema ei tue tätä sovellusta, joitain osia ei voi muuttaa.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Tiedostotyyppiä ei tueta</string>
+  <string name="read_external_permission_denied_message">Teemavalitsin ei voi käyttää mediatiedostoja eli kuvan valitseminen ei onnistu tällä hetkellä.</string>
+  <string name="animated_lock_screen_badge_text">Anim</string>
+  <string name="enable_live_lock_screen_dialog_title">Ota live-lukitusnäytön taustakuva käyttöön</string>
+  <string name="enable_live_lock_screen_dialog_message">Animoidut lukitusnäytöt vaativat live-lukitusnäytön taustakuvaominasuuden. Voit muuttaa tämän myöhemmin Asetuksista käymällä live-lukitusnäytön taustakuva-asetuksissa Lukitusnäyttö-valinnan alla.</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Ota käyttöön</string>
 </resources>

@@ -39,6 +39,4 @@
   <string name="wallpaper_none_title">هیچ</string>
   <!-- Legacy themes -->
   <!-- Per app theming -->
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">جۆری فایلەکە پاڵپشتی ناکا</string>
 </resources>

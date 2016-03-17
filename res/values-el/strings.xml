@@ -20,6 +20,7 @@
   <string name="navbar_label">Πλοήγηση</string>
   <string name="wallpaper_label">Ταπετσαρία</string>
   <string name="lockscreen_label">Ταπετσαρία οθόνης κλειδώματος</string>
+  <string name="live_lock_screen_label">Ζωντανές ταπετσαρίες οθόνης κλειδώματος</string>
   <string name="style_label">Έλεγχοι</string>
   <string name="boot_animation_label">Κινούμενη εικόνα εκκίνησης</string>
   <string name="alarm_label">Ξυπνητήρι</string>
@@ -56,6 +57,8 @@
   <string name="per_app_theme_removal_warning">ΣΗΜΕΙΩΣΗ: Η εφαρμογή ενός νέου θέματος θα καταργήσει τις προσαρμογές θέματος ανά εφαρμογή.</string>
   <string name="per_app_theme_applying">Το θέμα σας εφαρμόζεται</string>
   <string name="per_app_theme_app_not_overlaid_warning">Το θέμα δεν υποστηρίζει αυτή την εφαρμογή, ορισμένα στοιχεία ίσως δεν αλλάξουν.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Ο τύπος αρχείου δεν υποστηρίζεται</string>
+  <string name="read_external_permission_denied_message">Δεν είναι δυνατή η πρόσβαση στα πολυμέσα και η επιλογή μιας εικόνας αυτή τη στιγμή.</string>
+  <string name="enable_live_lock_screen_dialog_title">Ενεργοποίηση ζωντανών ταπετσαριών οθόνης κλειδώματος</string>
+  <string name="enable_live_lock_screen_dialog_message">Οι κινούμενες οθόνες κλειδώματος απαιτούν τη δυνατότητα Ζωντανών ταπετσαριών. Μπορείτε να αλλάξετε αυτή τη ρύθμιση αργότερα, ανοίγοντας τις Ρυθμίσεις και επισκέπτοντας την σελίδα Ζωντανών ταπετσαριών οθόνης κλειδώματος στις ρυθμίσεις οθόνης κλειδώματος.</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Ενεργοποίηση</string>
 </resources>

@@ -56,6 +56,4 @@
   <string name="per_app_theme_removal_warning">توجه: اعمال تم جدید باعث حذف سفارشی‌سازی‌های تم برنامه‌ها خواهد شد.</string>
   <string name="per_app_theme_applying">تم شما اعمال شد</string>
   <string name="per_app_theme_app_not_overlaid_warning">تم از این برنامه پشتیبانی نمی‌کند، ممکن است بعضی از عناصر ثابت بمانند.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">از این نوع فایل پشتیبانی نمی‌شود</string>
 </resources>

@@ -56,6 +56,4 @@
   <string name="per_app_theme_removal_warning">Catatan: Menerapkan tema baru akan menghilangkan penyesuaian tema aplikasi apa pun.</string>
   <string name="per_app_theme_applying">Tema sedang diterapkan</string>
   <string name="per_app_theme_app_not_overlaid_warning">Tema tidak mendukung aplikasi ini; beberapa elemen bisa tidak berubah.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Jenis berkas tidak didukung</string>
 </resources>

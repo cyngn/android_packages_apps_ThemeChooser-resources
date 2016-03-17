@@ -56,6 +56,4 @@
   <string name="per_app_theme_removal_warning">ಗಮನಿಸಿ: ಹೊಸ ಥೀಮ್ ಅನ್ವಯಿಕೆ ಯಾವುದೇ ಥೀಮ್ ಕಸ್ಟಮೈಸೇಶನ್‍ಗಳನ್ನು ತೆಗೆಯುತ್ತದೆ.</string>
   <string name="per_app_theme_applying">ನಿಮ್ಮ ಥೀಮ್ ಅನ್ವಯಿಸಲಾಗುತ್ತಿದೆ</string>
   <string name="per_app_theme_app_not_overlaid_warning">ಥೀಮ್ ಈ ಆಪನ್ನು ಬೆಂಬಲಿಸುವುದಿಲ್ಲ, ಕೆಲವು ಅಂಶಗಳು ಬದಲಾಗದಿರಬಹುದು.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">ಕಡತ ಪ್ರಕಾರ ಬೆಂಬಲಿತವಾಗಿಲ್ಲ</string>
 </resources>

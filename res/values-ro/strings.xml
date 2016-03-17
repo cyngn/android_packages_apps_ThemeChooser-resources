@@ -54,6 +54,5 @@
   <string name="per_app_theme_removal_warning">NOTĂ: Aplicarea unei noi teme va elimina toate particularizările de temă ale aplicațiilor.</string>
   <string name="per_app_theme_applying">Tema se aplică</string>
   <string name="per_app_theme_app_not_overlaid_warning">Tema nu are suport pentru acestă aplicație, unele elemente nu se pot schimba.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Tip de fișier neacceptat</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Activare</string>
 </resources>

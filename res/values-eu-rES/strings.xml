@@ -20,6 +20,7 @@
   <string name="navbar_label">Nabigazioa</string>
   <string name="wallpaper_label">Horma-papera</string>
   <string name="lockscreen_label">Blokeo-pantailako horma-papera</string>
+  <string name="live_lock_screen_label">Blokeo pantaila bizia</string>
   <string name="style_label">Kontrolak</string>
   <string name="boot_animation_label">Abio animazioa</string>
   <string name="alarm_label">Alarma</string>
@@ -56,6 +57,9 @@
   <string name="per_app_theme_removal_warning">OHARRA: Gai berri bat ezartzeak gai pertsonalizazio guztiak kenduko ditu.</string>
   <string name="per_app_theme_applying">Zure gaia aplikatzen ari da</string>
   <string name="per_app_theme_app_not_overlaid_warning">Gaiak ez du aplikazio honentzat euskarririk. Agian elementu batzuk ez dira aldatuko.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Fitxategi mota ez da onartzen</string>
+  <string name="read_external_permission_denied_message">Gai hautatzaileak ezin du biltegiratzea atzitu eta ezin du irudi bat aukeratu orain.</string>
+  <string name="animated_lock_screen_badge_text">Anim</string>
+  <string name="enable_live_lock_screen_dialog_title">Gaitu blokeo pantaila bizia</string>
+  <string name="enable_live_lock_screen_dialog_message">Animatutako blokeo pantailek blokeo pantaila bizia ezaugarria behar dute. Hau Ezarpenetako Blokeo pantaila ataleko Blokeo pantaila bizia orrian aldatu dezakezu noiznahi.</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Gaitu</string>
 </resources>

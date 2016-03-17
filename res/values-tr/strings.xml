@@ -56,6 +56,4 @@
   <string name="per_app_theme_removal_warning">NOT: Yeni bir tema uygulanınca tüm uygulama teması özelleştirmeleri kaldırılacaktır.</string>
   <string name="per_app_theme_applying">Temanız uygulanıyor</string>
   <string name="per_app_theme_app_not_overlaid_warning">Tema bu uygulamayı desteklemiyor, bazı ögeler değişmeyebilir.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Dosya türü desteklenmiyor</string>
 </resources>

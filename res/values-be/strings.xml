@@ -56,6 +56,4 @@
   <string name="per_app_theme_removal_warning">Увага: усталёўка новай тэмы выдаліць усе індывідуальныя налады тым для дадаткаў.</string>
   <string name="per_app_theme_applying">Ваша тэма ўжываецца</string>
   <string name="per_app_theme_app_not_overlaid_warning">Тэма не падтрымвае дадзены дадатак, некаторыя элементы могуць застацца ранейшымі.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Тып файла не падтрымваецца</string>
 </resources>

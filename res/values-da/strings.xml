@@ -56,6 +56,4 @@
   <string name="per_app_theme_removal_warning">BEMÆRK: Når du anvender et nyt tema, vil enhver tilpasning af app temaer blive fjernet.</string>
   <string name="per_app_theme_applying">Dit tema anvendes</string>
   <string name="per_app_theme_app_not_overlaid_warning">Temaet understøtter ikke denne app, nogle elementer ændrer sig muligvis ikke.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Filtypen understøttes ikke</string>
 </resources>

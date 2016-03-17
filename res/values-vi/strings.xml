@@ -20,6 +20,7 @@
   <string name="navbar_label">Điều hướng</string>
   <string name="wallpaper_label">Hình nền</string>
   <string name="lockscreen_label">Hình nền màn hình khoá</string>
+  <string name="live_lock_screen_label">Màn hình khoá động</string>
   <string name="style_label">Điều khiển</string>
   <string name="boot_animation_label">Ảnh khởi động</string>
   <string name="alarm_label">Báo thức</string>
@@ -56,6 +57,9 @@
   <string name="per_app_theme_removal_warning">LƯU Ý: Áp dụng chủ đề mới sẽ xóa bất kỳ tùy chỉnh chủ đề ứng dụng nào.</string>
   <string name="per_app_theme_applying">Chủ đề của bạn đang được áp dụng</string>
   <string name="per_app_theme_app_not_overlaid_warning">Chủ đề không hỗ trợ ứng dụng này, một số yếu tố có thể không thay đổi.</string>
-  <!-- Unsupported file format -->
-  <string name="file_type_not_supported">Loại tệp không được hỗ trợ</string>
+  <string name="read_external_permission_denied_message">Trình chọn chủ đề không thể truy cập phương tiện truyền thông và không thể chọn một hình ảnh vào thời gian này.</string>
+  <string name="animated_lock_screen_badge_text">Hoạt ảnh</string>
+  <string name="enable_live_lock_screen_dialog_title">Bật màn hình khóa động</string>
+  <string name="enable_live_lock_screen_dialog_message">Màn hình khóa hoạt họa yêu cầu phải có tính năng màn hình khóa động. Bạn có thể thay đổi chế độ này sau bằng cách mở Cài đặt và truy cập trang Màn hình khóa động trong phần tùy chọn Màn hình khóa.</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Bật</string>
 </resources>
