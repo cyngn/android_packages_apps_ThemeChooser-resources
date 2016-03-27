@@ -20,6 +20,7 @@
   <string name="navbar_label">التنقل</string>
   <string name="wallpaper_label">الخلفية</string>
   <string name="lockscreen_label">خلفيات شاشة القفل </string>
+  <string name="live_lock_screen_label">شاشة التأمين المباشر</string>
   <string name="style_label">عناصر التحكم</string>
   <string name="boot_animation_label">الرسوم المتحركة في التشغيل</string>
   <string name="alarm_label">المنبه</string>
@@ -56,4 +57,9 @@
   <string name="per_app_theme_removal_warning">ملاحظة: تطبيق سمة جديدة سيؤدي إلى إزالة أية تخصيصات سمات التطبيق.</string>
   <string name="per_app_theme_applying">جاري تطبيق سمتك</string>
   <string name="per_app_theme_app_not_overlaid_warning">السمة لا تدعم هذا التطبيق، فبعض العناصر ربما لا تتغير.</string>
+  <string name="read_external_permission_denied_message">لا يمكن لأداة اختيار الموضوعات الوصول إلى الوسائط ولا يمكنها التقاط صورة في هذا الوقت.</string>
+  <string name="animated_lock_screen_badge_text">انيم</string>
+  <string name="enable_live_lock_screen_dialog_title">تمكين شاشة التأمين المباشر</string>
+  <string name="enable_live_lock_screen_dialog_message">تتطلب شاشات التأمين المتحركة ميزة شاشة التأمين المباشر. يمكنك تغيير هذا في وقت لاحق من خلال فتح إعدادات وزيارة صفحة شاشة التأمين المباشر تحت خيارات شاشة التأمين.</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">تمكين</string>
 </resources>

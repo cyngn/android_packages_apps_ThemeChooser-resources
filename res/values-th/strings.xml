@@ -20,6 +20,7 @@
   <string name="navbar_label">แถบนำทาง</string>
   <string name="wallpaper_label">ภาพพื้นหลัง</string>
   <string name="lockscreen_label">ภาพพื้นหลังหน้าจอล็อค</string>
+  <string name="live_lock_screen_label">ใช้งานขณะหน้าจอล็อค</string>
   <string name="style_label">ตัวควบคุม</string>
   <string name="boot_animation_label">ภาพเปิดเครื่อง</string>
   <string name="alarm_label">นาฬิกาปลุก</string>
@@ -56,4 +57,9 @@
   <string name="per_app_theme_removal_warning">หมายเหตุ: การใช้รูปแบบธีมใหม่จะลบการปรับแต่งรูปแบบธีมของแอปทั้งหมดออกไป</string>
   <string name="per_app_theme_applying">กำลังนำรูปแบบธีมของคุณไปใช้</string>
   <string name="per_app_theme_app_not_overlaid_warning">รูปแบบธีมไม่สนับสนุนแอปนี้ บางรายองค์ประกอบอาจไม่เปลี่ยนแปลง</string>
+  <string name="read_external_permission_denied_message">ตัวจัดการชุดรูปแบบไม่สามารถเข้าถึงสื่อและไม่สามารถเลือกรูปภาพได้ในขณะนี้</string>
+  <string name="animated_lock_screen_badge_text">Anim</string>
+  <string name="enable_live_lock_screen_dialog_title">เปิดใช้งานขณะล็อคหน้าจอ</string>
+  <string name="enable_live_lock_screen_dialog_message">หน้าจอล็อคเคลื่อนไหวต้องใช้คุณสมบัติการใช้งานขณะหน้าจอล็อค คุณสามารถเปลี่ยนคุณสมบัตินี้ได้ภายหลัง โดยเปิดการตั้งค่าและเข้าไปที่เพจการใช้งานขณะหน้าจอล็อค ที่อยู่ใต้ตัวเลือกหน้าจอล็อค</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">เปิดใช้งาน</string>
 </resources>

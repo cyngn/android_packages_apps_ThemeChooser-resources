@@ -20,6 +20,7 @@
   <string name="navbar_label">Панэль навігацыі</string>
   <string name="wallpaper_label">Шпалеры</string>
   <string name="lockscreen_label">Шпалеры экрана блакавання</string>
+  <string name="live_lock_screen_label">Жывы экран блакавання</string>
   <string name="style_label">Сродкі кіравання</string>
   <string name="boot_animation_label">Анімацыя загрузкі</string>
   <string name="alarm_label">Будзільнік</string>
@@ -56,4 +57,9 @@
   <string name="per_app_theme_removal_warning">Увага: усталёўка новай тэмы выдаліць усе індывідуальныя налады тым для дадаткаў.</string>
   <string name="per_app_theme_applying">Ваша тэма ўжываецца</string>
   <string name="per_app_theme_app_not_overlaid_warning">Тэма не падтрымвае дадзены дадатак, некаторыя элементы могуць застацца ранейшымі.</string>
+  <string name="read_external_permission_denied_message">Дыспетчар тэм не можа атрымаць доступ, таму цяпер немагчыма выбраць выяву.</string>
+  <string name="animated_lock_screen_badge_text">Анімацыя</string>
+  <string name="enable_live_lock_screen_dialog_title">Улучыць жывы экран блакавання</string>
+  <string name="enable_live_lock_screen_dialog_message">Для анімаванага экрану блакавання трэба ўключыць функцыю жывога экрану блакавання. Гэта можна зрабіць пазней у Наладах, адкрыўшы частку «Параметры экрана блакавання».</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Задзейнічаць</string>
 </resources>

@@ -20,6 +20,7 @@
   <string name="navbar_label">Nawigacja</string>
   <string name="wallpaper_label">Tapeta</string>
   <string name="lockscreen_label">Tapeta ekranu blokady</string>
+  <string name="live_lock_screen_label">Animowana blokada ekranu</string>
   <string name="style_label">Przełączniki</string>
   <string name="boot_animation_label">Animacja uruchamiania</string>
   <string name="alarm_label">Budzik</string>
@@ -56,4 +57,8 @@
   <string name="per_app_theme_removal_warning">UWAGA: Zastosowanie nowego motywu usunie wszelkie modyfikacje wyglądu aplikacji.</string>
   <string name="per_app_theme_applying">Twój motyw zostanie zastosowany</string>
   <string name="per_app_theme_app_not_overlaid_warning">Motyw nie obsługuje tej aplikacji, niektóre elementy mogą się nie zmienić.</string>
+  <string name="read_external_permission_denied_message">Kompozytor motywów nie ma dostępu do mediów i nie jest w stanie pobrać obrazu w tej chwili.</string>
+  <string name="enable_live_lock_screen_dialog_title">Włącz animowany ekran blokady</string>
+  <string name="enable_live_lock_screen_dialog_message">Animowany ekran blokady wymaga funkcjonalności animowanego ekranu blokady. Możesz to zmienić później w Ustawieniach i odwiedzając stronę animowanej blokady ekranu w ustawianiach ekranu blokady.</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Włącz</string>
 </resources>

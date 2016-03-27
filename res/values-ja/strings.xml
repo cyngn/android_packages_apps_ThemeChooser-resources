@@ -4,7 +4,7 @@
      Copyright (C) 2014-2015 Cyanogen, Inc.
 -->
 <resources>
-  <string name="app_name">テーマ選択</string>
+  <string name="app_name">テーマ選択アプリ</string>
   <string name="font_preview_letters">あア漢字AaBbCc</string>
   <string name="theme_installed_notification_title">%sをインストールしました</string>
   <string name="theme_installed_notification_text">テーマのインストールが完了しました。</string>

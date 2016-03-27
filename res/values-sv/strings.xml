@@ -60,5 +60,6 @@
   <string name="read_external_permission_denied_message">Temaväljaren har inte tillgång till media och kan inte välja en bild just nu.</string>
   <string name="animated_lock_screen_badge_text">Anim</string>
   <string name="enable_live_lock_screen_dialog_title">Aktivera levande låsskärm</string>
+  <string name="enable_live_lock_screen_dialog_message">Animerade låsskärmar kräver funktionen levande låsskärm. Du kan ändra detta senare genom att öppna inställningar och gå till levande låsskärm under låsskärmsalternativ.</string>
   <string name="enable_live_lock_screen_dialog_positive_btn_text">Aktivera</string>
 </resources>

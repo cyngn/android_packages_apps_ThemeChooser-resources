@@ -58,6 +58,7 @@
   <string name="per_app_theme_applying">Το θέμα σας εφαρμόζεται</string>
   <string name="per_app_theme_app_not_overlaid_warning">Το θέμα δεν υποστηρίζει αυτή την εφαρμογή, ορισμένα στοιχεία ίσως δεν αλλάξουν.</string>
   <string name="read_external_permission_denied_message">Δεν είναι δυνατή η πρόσβαση στα πολυμέσα και η επιλογή μιας εικόνας αυτή τη στιγμή.</string>
+  <string name="animated_lock_screen_badge_text">Κινούμενη</string>
   <string name="enable_live_lock_screen_dialog_title">Ενεργοποίηση ζωντανών ταπετσαριών οθόνης κλειδώματος</string>
   <string name="enable_live_lock_screen_dialog_message">Οι κινούμενες οθόνες κλειδώματος απαιτούν τη δυνατότητα Ζωντανών ταπετσαριών. Μπορείτε να αλλάξετε αυτή τη ρύθμιση αργότερα, ανοίγοντας τις Ρυθμίσεις και επισκέπτοντας την σελίδα Ζωντανών ταπετσαριών οθόνης κλειδώματος στις ρυθμίσεις οθόνης κλειδώματος.</string>
   <string name="enable_live_lock_screen_dialog_positive_btn_text">Ενεργοποίηση</string>
