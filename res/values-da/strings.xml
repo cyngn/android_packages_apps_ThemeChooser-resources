@@ -20,6 +20,7 @@
   <string name="navbar_label">Navigation</string>
   <string name="wallpaper_label">Baggrund</string>
   <string name="lockscreen_label">Baggrund til skærmlås</string>
+  <string name="live_lock_screen_label">Levende skærmlås</string>
   <string name="style_label">Kontrol</string>
   <string name="boot_animation_label">Opstartsanimation</string>
   <string name="alarm_label">Alarm</string>
@@ -56,4 +57,9 @@
   <string name="per_app_theme_removal_warning">BEMÆRK: Når du anvender et nyt tema, vil enhver tilpasning af app temaer blive fjernet.</string>
   <string name="per_app_theme_applying">Dit tema anvendes</string>
   <string name="per_app_theme_app_not_overlaid_warning">Temaet understøtter ikke denne app, nogle elementer ændrer sig muligvis ikke.</string>
+  <string name="read_external_permission_denied_message">Temavælgeren kan ikke få adgang til medier og er ikke i stand til at vælge et billede på dette tidspunkt.</string>
+  <string name="animated_lock_screen_badge_text">Animeret</string>
+  <string name="enable_live_lock_screen_dialog_title">Aktivér Levende skærmlås</string>
+  <string name="enable_live_lock_screen_dialog_message">Animerede skærmlåse kræver funktionen Levende skærmlås. Du kan ændre dette senere ved at åbne indstillinger og besøge siden Levende skærmlås under skærmlås-indstillinger.</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Aktivér</string>
 </resources>

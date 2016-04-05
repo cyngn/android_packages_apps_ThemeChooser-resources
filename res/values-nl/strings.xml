@@ -57,6 +57,9 @@
   <string name="per_app_theme_removal_warning">Let op: Toepassen van een nieuw thema zal alle aanpassingen van het app-thema verwijderen.</string>
   <string name="per_app_theme_applying">Uw thema wordt toegepast</string>
   <string name="per_app_theme_app_not_overlaid_warning">Het thema ondersteunt deze app niet. Enkele elementen kunnen ongewijzigd blijven.</string>
+  <string name="read_external_permission_denied_message">Themakiezer kan geen toegang tot media krijgen en is nu niet in staat een afbeelding te kiezen.</string>
+  <string name="animated_lock_screen_badge_text">Geanimeerd</string>
   <string name="enable_live_lock_screen_dialog_title">Geanimeerd vergrendelingsscherm inschakelen</string>
+  <string name="enable_live_lock_screen_dialog_message">Geanimeerde vergrendelingsschermen vereisen de functie \"Geanimeerd vergrendelingsscherm\". U kunt dit wijzigen door in de instellingen van vergrendelingsscherm naar de geanimeerd vergrendelingsscherm-pagina te gaan.</string>
   <string name="enable_live_lock_screen_dialog_positive_btn_text">Inschakelen</string>
 </resources>
