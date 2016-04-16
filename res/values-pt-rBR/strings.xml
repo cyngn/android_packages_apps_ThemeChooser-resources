@@ -54,12 +54,12 @@
   <string name="legacy_theme_warning">NOTA: %s foi projetado para uma versão mais antiga do CM. Você pode ter problemas de compatibilidade com este tema.</string>
   <!-- Per app theming -->
   <string name="per_app_theming_title">Tematizador de App</string>
-  <string name="per_app_theme_removal_warning">NOTA: Aplicando um novo tema removerá todas as personalizações no tema do app.</string>
+  <string name="per_app_theme_removal_warning">NOTA: Aplicando um novo tema removerá todas as personalizações no tema do aplicativo.</string>
   <string name="per_app_theme_applying">O tema está sendo aplicado</string>
-  <string name="per_app_theme_app_not_overlaid_warning">O tema não suporta este app, alguns elementos podem não mudar.</string>
+  <string name="per_app_theme_app_not_overlaid_warning">O tema não é compatível com este aplicativo, alguns elementos podem não mudar.</string>
   <string name="read_external_permission_denied_message">O Seletor de Temas não consegue acessar a mídia do dispositivo então não é possível escolher uma imagem neste momento.</string>
   <string name="animated_lock_screen_badge_text">Animada</string>
   <string name="enable_live_lock_screen_dialog_title">Ativar tela de bloqueio animada</string>
-  <string name="enable_live_lock_screen_dialog_message">Telas de bloqueio animada exigem o recurso de tela de bloqueio animada. Você pode alterar isso mais tarde, abrindo Configurações da tela de bloqueio animada nas opções da tela de bloqueio.</string>
+  <string name="enable_live_lock_screen_dialog_message">Telas de bloqueio animadas exigem o recurso de tela de bloqueio animada. Você pode alterar isso mais tarde, abrindo Configurações da tela de bloqueio animada nas opções da tela de bloqueio.</string>
   <string name="enable_live_lock_screen_dialog_positive_btn_text">Ativar</string>
 </resources>

@@ -59,7 +59,7 @@
   <string name="per_app_theme_app_not_overlaid_warning">Темата не поддържа това приложение, някои елементи може да се променят.</string>
   <string name="read_external_permission_denied_message">Услугата за избор на теми няма достъп до медиите и в момента не може избере изображение.</string>
   <string name="animated_lock_screen_badge_text">Анимация</string>
-  <string name="enable_live_lock_screen_dialog_title">Включи анимирания заключен екран</string>
-  <string name="enable_live_lock_screen_dialog_message">Анимираните заключени екрани изискват функцията Оживен Заключен Екран. Можете да промените това по-късно, кото отворите Настройки и посетите страницата Оживен Заключен Екран под опциите на Заключен Екран.</string>
-  <string name="enable_live_lock_screen_dialog_positive_btn_text">Активирай</string>
+  <string name="enable_live_lock_screen_dialog_title">Включи анимиран заключен екран</string>
+  <string name="enable_live_lock_screen_dialog_message">Анимираните заключени екрани изискват функцията анимиран заключен екран. Можете да промените това по-късно, като отворите Настройки и посетите страницата анимиран заключен екран в опциите на заключен екран.</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Разреши</string>
 </resources>
