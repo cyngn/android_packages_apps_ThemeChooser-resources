@@ -20,6 +20,7 @@
   <string name="navbar_label">Navigáció</string>
   <string name="wallpaper_label">Háttérkép</string>
   <string name="lockscreen_label">Képernyőzár háttérkép</string>
+  <string name="live_lock_screen_label">Élő zárképernyő</string>
   <string name="style_label">Vezérlők</string>
   <string name="boot_animation_label">Boot animáció</string>
   <string name="alarm_label">Ébresztő</string>
@@ -56,4 +57,9 @@
   <string name="per_app_theme_removal_warning">MEGJEGYZÉS: Új téma alkalmazásával minden alkalmazás témamódosítása elveszik.</string>
   <string name="per_app_theme_applying">A témája alkalmazásra került</string>
   <string name="per_app_theme_app_not_overlaid_warning">A téma nem támogatja az alkalmazást, egyes elemek nem fognak változni.</string>
+  <string name="read_external_permission_denied_message">Témaválasztó nem fér hozzá a médiához és képtelen jelenleg képet választani.</string>
+  <string name="animated_lock_screen_badge_text">Animáció</string>
+  <string name="enable_live_lock_screen_dialog_title">Élő zárképernyő engedélyezése</string>
+  <string name="enable_live_lock_screen_dialog_message">Animált zárképernyőhöz szükséges az élő zárképernyő funkció. Ezt később megváltoztathatja a Beállítások, Zárképernyő beállításai, Élő zárképernyő menüben.</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Engedélyezés</string>
 </resources>
