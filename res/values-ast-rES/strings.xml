@@ -20,6 +20,7 @@
   <string name="navbar_label">Navegación</string>
   <string name="wallpaper_label">Fondu de pantalla</string>
   <string name="lockscreen_label">Fondu de pantalla de bloquéu</string>
+  <string name="live_lock_screen_label">Pantalla de bloquéu animada</string>
   <string name="style_label">Controles</string>
   <string name="boot_animation_label">Animación d\'arranque</string>
   <string name="alarm_label">Alarma</string>
@@ -55,4 +56,9 @@
   <string name="per_app_theme_removal_warning">NOTA: L\'aplique d\'un tema nuevu desaniciará cualesquier personalizaciones de tema.</string>
   <string name="per_app_theme_applying">Ta aplicándose\'l to tema</string>
   <string name="per_app_theme_app_not_overlaid_warning">El to tema nun sofita esta app, dellos elementos podríen nun camudar.</string>
+  <string name="read_external_permission_denied_message">El seleutor de temes nun pue acceder a la multimedia y nun ye a escoyer una imaxe nesti momentu.</string>
+  <string name="animated_lock_screen_badge_text">Animada</string>
+  <string name="enable_live_lock_screen_dialog_title">Habilitar pantalla de bloquéu animada</string>
+  <string name="enable_live_lock_screen_dialog_message">Les pantalles de bloquéu animaes riquen activada la so función. Pues camudar esto más sero abriendo Axustes y visitando la páxina de Pantalla de bloquéu animada so Opciones de pantalla de bloquéu.</string>
+  <string name="enable_live_lock_screen_dialog_positive_btn_text">Habilitar</string>
 </resources>
