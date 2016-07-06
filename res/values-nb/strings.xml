@@ -60,6 +60,6 @@
   <string name="read_external_permission_denied_message">Tema Velgeren får ikke tilgang til medier og kan ikke velge et bilde på dette tidspunktet.</string>
   <string name="animated_lock_screen_badge_text">Anim</string>
   <string name="enable_live_lock_screen_dialog_title">Aktiver Levende skjermlås</string>
-  <string name="enable_live_lock_screen_dialog_message">Animerte skjermlåser krever aktivering av Levende skjermlås egenskapen. Du kan endre dette senere ved å gå til Innstillinger og gå til Levende skjermlås siden under Skjermlås instillinger.</string>
+  <string name="enable_live_lock_screen_dialog_message">Animerte skjermlåser krever aktivering av Levende skjermlås egenskapen. Du kan endre dette senere ved å gå til Innstillinger og gå til Levende skjermlås siden under Skjermlås innstillinger.</string>
   <string name="enable_live_lock_screen_dialog_positive_btn_text">Aktiver</string>
 </resources>
