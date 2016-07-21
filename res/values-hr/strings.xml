@@ -35,7 +35,7 @@
   <!-- Overlay titles -->
   <string name="apply_theme_overlay_title">Primijeni</string>
   <string name="delete_theme_overlay_title">Obriši</string>
-  <string name="reset_theme_overlay_title">Resetiraj</string>
+  <string name="reset_theme_overlay_title">Ponovno postavi</string>
   <!-- TAG text -->
   <string name="default_tag_text">Zadano</string>
   <string name="customized_tag_text">Prilagođeno</string>
@@ -44,7 +44,7 @@
   <string name="wallpaper_none">Nijedan</string>
   <string name="audible_title_none">Nijedan</string>
   <!-- Labels for the customize/reset theme layout -->
-  <string name="reset_theme">Resetiraj</string>
+  <string name="reset_theme">Ponovno postavi</string>
   <string name="customize_theme">Prilagodba</string>
   <!-- Extra wallpaper components for selector -->
   <string name="wallpaper_external_title">Odaberite sliku</string>
